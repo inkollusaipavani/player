@@ -1,3 +1,3 @@
-string=raw_input()
-string_reverse=string[::-1]
-print(string_reverse)
+str2=raw_input()
+str2_reverse=str2[::-1]
+print(str2_reverse)
